@@ -3,6 +3,8 @@ This project is a frame for my pokémon cards with an acrylic sheet in front, an
 
 I made this project to create a clean and nice way to display my cards while keeping them protected, I didn't want to spend money on frames on Amazon or something that are both expensive and ugly. I also (mainly) wanted to practice my CAD design.
 
+I am planning to score and snap the acrylic, as I have done so in the past.
+
 <img width="651" height="663" alt="Screenshot 2026-05-03 205659" src="https://github.com/user-attachments/assets/0b94bfb6-8844-4345-88ee-e35e00f6d74c" />
 Frame
 
@@ -17,3 +19,4 @@ Complete Assembly
 
 
 Everything is to be 3D printed, and it uses a sheet of 3mm thick acrylic in the front of each frame.
+BOM: 3mm Acrylic - $1.50 (From Dollar Tree)
