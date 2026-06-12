@@ -19,4 +19,10 @@ Complete Assembly
 
 
 Everything is to be 3D printed, and it uses a sheet of 3mm thick acrylic in the front of each frame.
-BOM: 3mm Acrylic - $1.50 (From Dollar Tree)
+
+The acrylic is bought in person from Dollar Tree, the frame is printed on my own.
+
+| ITEM | DESCRIPTION | QUANTITY |
+| -------- | -------- | -------- |
+| 3D Printed Frame | Custom Printed Part | 1 | 
+| 3mm Acrylic Sheet | 5in x 7in, 3mm thickness | 1 | 
